@@ -15,5 +15,5 @@ Below you'll find lecture recordings and notebooks with the slides and exercises
 * 🎥 [0.5 Environment Setup](https://www.youtube.com/watch?v=xtsEeR_-GJ4)  
 * 🎥 [01 Numpy](https://youtu.be/meKvCzPIhzU) 📝 [01 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM5004-Machine-Learning/blob/main/01%20Numpy/01%20Python%20Numpy.ipynb)  
 * 🎥 [02 Pandas](https://youtu.be/Ac3BS0ksg4s) 📝 [02 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM5004-Machine-Learning/blob/main/02%20Pandas/02%20Python%20Pandas.ipynb)
-* 🎥 [03 Matplotlib](https://youtu.be/meKvCzPIhzU) 📝 [03 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM5004-Machine-Learning/blob/main/01%20Numpy/01%20Python%20Numpy.ipynb)  
+* 🎥 [03 Matplotlib](https://youtu.be/meKvCzPIhzU) 📝 [03 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM5004-Machine-Learning/blob/main/03%20Matplotlib/03%20Python%20Matplotlib.ipynb)
 * 🎥 [04 Seaborn](https://youtu.be/Ac3BS0ksg4s) 📝 [04 Notebook - Slides & Exercises](https://github.com/NicholasDay1992/COM5004-Machine-Learning/blob/main/02%20Pandas/02%20Python%20Pandas.ipynb)
