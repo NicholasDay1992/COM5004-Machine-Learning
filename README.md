@@ -7,6 +7,6 @@ This module starts with Exploratory Data Analysis and Data Visualisation, before
 
 ![data_science_](https://www.mihaileric.com/static/microsoft_data_cycle-6643fcfdc3f6789063e1240df82cc7ee-42ff2.png)
 
-![ml](https://www.researchgate.net/publication/373535780/figure/fig1/AS:11431281184926528@1693489593190/Types-of-machine-learning-Machine-learning-encompasses-three-main-types-supervised.png)
+![ml](https://datasciencedojo.com/wp-content/uploads/ml-ds-algos.jpg.webp)
 
 # COM5004 Curriculum
